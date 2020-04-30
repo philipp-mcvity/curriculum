@@ -34,7 +34,7 @@ project
   |__spec
   |   |__spec_helper.rb
   |
-  |__.spec
+  |__.rspec
 ~~~
 
 That's it. Within two steps, you're up and running with RSpec. That wasn't so hard, was it?
@@ -53,7 +53,7 @@ As expected, the output will read:
   create   spec/spec_helper.rb
 ~~~
 
-Run the tests from your terminal by using the `rspec` command, which will return "No examples found." That really shouldn't surprise you, because we haven't written any tests yet. If you're still shocked... maybe take a short break, or come say hello to us in our [Discord](https://discord.gg/hvqVr6d) back-end channel.
+Run the tests from your terminal by using the `rspec` command, which will return "No examples found." That really shouldn't surprise you, because we haven't written any tests yet. If you're still shocked... maybe take a short break, or come say hello to us in our [Discord](https://discord.gg/hvqVr6d) ruby-testing channel.
 
 ~~~bash
 No examples found.
